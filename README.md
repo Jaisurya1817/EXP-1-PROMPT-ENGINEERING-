@@ -10,8 +10,24 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
+Define the objective (write report).
+
+Collect reference materials.
+
+Structure content into sections.
+
+Draft and format the report.
+
+Review and finalize
 
 ## Output
+A structured report covering:
+
+Basics of Generative AI and LLMs
+
+Architectures, training, applications, ethics
+
+Glossary and references
 
 ## Result
-
+Successfully developed a complete, well-structured report on Generative AI and LLMs
